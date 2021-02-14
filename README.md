@@ -2,7 +2,7 @@
 ## <div align="center">𝕎𝔼𝕃𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕄𝕐 ℙℝ𝕆𝔽𝕀𝕃𝔼</div>
 <div align="center"><img src="https://s2.gifyu.com/images/c1625a30f9cd06c8b5.gif" alt="Wellcome To My Profile!"></div>
 
-## <div align="center">🅰🅱🅾🆄🆃 🅼🅴
+## <div align="center">🅰🅱🅾🆄🆃 🅼🅴</div>
 <img src="https://s2.gifyu.com/images/c217e7d581b71c1178.gif" alt="About Me" align="right">
 
  - **Name:**  Alex | C4SZ4R  
