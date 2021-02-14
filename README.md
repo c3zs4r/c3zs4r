@@ -13,6 +13,7 @@
  - **Hobbys:**  Tech Stuff, Graphics Design, Music
 
 ## <div align="center">🅺🅽🅾🆆🅻🅴🅳🅶🅴</div>
+<img src="https://i.imgur.com/K9Sng8U.png" align="left"><img src="https://i.imgur.com/iDxnET1.png" align="right">
 <div align="center"><img src="https://i.imgur.com/dWV77Fx.png"><img src="https://i.imgur.com/yascq2E.png"><img src="https://i.imgur.com/ngNdC3W.pngg">
 <div><img src="https://i.imgur.com/QY6ia4c.png"><img src="https://i.imgur.com/lWbq4kp.png"><img src="https://i.imgur.com/RHsoQzs.png">
 <div align="center">I am currently learning C ++ and Python.<br> I'm also learning to write bots on Discord.<br>I'm not bad at doing designs in Photoshop.</div>
