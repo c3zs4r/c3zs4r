@@ -17,6 +17,6 @@
 <div align="center">I am currently learning C ++ and Python. I'm also learning to write bots on Discord. I'm not bad at doing designs in Photoshop.</div>
 
 ## 🅲🅾🅽🆃🅰🅲🆃
-<img src="https://s2.gifyu.com/images/c3a2e8ab58eb1ba078.png" alt="Contact" align="center">
+<img src="https://s2.gifyu.com/images/c3c0492baa2ca409cc.png" alt="Contact" align="center">
 
 <div align="center"><strong>Discord:</strong> <code>c3zs4r#1162</code> <strong>Email:</strong> <code>c3zs4r.1@gmail.com</code> <strong>Telegram:</strong> <code>@c3zs4r</code></div>
