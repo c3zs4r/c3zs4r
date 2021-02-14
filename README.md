@@ -4,13 +4,10 @@
 
 ## 🅰🅱🅾🆄🆃 🅼🅴
 <img src="https://s2.gifyu.com/images/c217e7d581b71c1178.gif" alt="About Me" align="right">
--   **Name:**  Alex | C4SZ4R
--   **Nationality:**  Animechnik
--   **Loves:**  Anime
--   **Gender:**  Male
--   **Learning:** C++, Python 
--   **Hobbys:**  Tech Stuff, Graphics Design, Music
 
-## 🅺🅽🅾🆆🅻🅴🅳🅶🅴
-
-## 🅲🅾🅽🆃🅰🅲🆃
+ - **Name:**  Alex | C4SZ4R  
+ - **Nationality:**  Animechnik
+ - **Loves:**  Anime
+ - **Gender:**  Male
+ - **Learning:** C++, Python 
+ - **Hobbys:**  Tech Stuff, Graphics Design, Music
