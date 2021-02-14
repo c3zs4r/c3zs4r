@@ -10,7 +10,7 @@
  - **Loves:**  Anime
  - **Gender:**  Male
  - **Learning:** C++, Python 
- - **Hobbys:**  Tech Stuff, Graphics Design, Music
+ - **Hobbys:**  Tech Stuff, Graphics Design, Art, Pixel Art, Music
 
 ## <div align="center">🅺🅽🅾🆆🅻🅴🅳🅶🅴</div>
 <img src="https://i.imgur.com/K9Sng8U.png" align="left"><img src="https://i.imgur.com/iDxnET1.png" align="right">
