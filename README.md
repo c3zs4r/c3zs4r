@@ -6,7 +6,6 @@
 <img src="https://s2.gifyu.com/images/c217e7d581b71c1178.gif" alt="About Me" height="160px" align="right">
 
  - **Name:**  Alex | C4SZ4R  
- - **Nationality:**  WTF?!
  - **Loves:**  Anime
  - **Gender:**  Male
  - **Learning:** C++, Python 
