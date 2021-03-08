@@ -9,7 +9,7 @@
  - **Loves:**  Anime
  - **Natonality:**  \(-_-)/
  - **Gender:**  Male
- - **Learning:** C++, Python 
+ - **Learning:** C++, Python, JS and more... 
  - **Hobbys:**  Tech Stuff, Graphics Design, Art, Pixel Art, Voxel Art, 3D,  Music
 
 ## <div align="center">🅺🅽🅾🆆🅻🅴🅳🅶🅴</div>
