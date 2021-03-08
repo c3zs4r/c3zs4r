@@ -21,4 +21,4 @@
 ## 🅲🅾🅽🆃🅰🅲🆃
 <img src="https://s2.gifyu.com/images/tumblr_pee5l0n8L31sg8uefo1_1280.gif" align="center">
 
-<div align="center"><strong>Discord:</strong> <code>c3zs4r#1162</code> <strong>Email:</strong> <code>c3zs4r.1@gmail.com</code> <strong>Telegram:</strong> <code>@c3zs4r</code></div>
+<div align="center"><strong>Discord:</strong> <code>c3zs4r#8888</code> <strong>Email:</strong> <code>c3zs4r.1@gmail.com</code> <strong>Telegram:</strong> <code>@c3zs4r</code></div>
